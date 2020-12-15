@@ -1,5 +1,7 @@
 # TennisBot
 
+## Note: This is a static mirror of https://github.com/hojulian/TennisBot.
+
 **Julian Ho, Cass Wang**
 
 **COSI 119A Fall 2020**
